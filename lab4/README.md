@@ -8,7 +8,7 @@
 
 ---
 <p >
-  <img src="images/image.png" width="250" height="400" alt="Image 1">
-  <img src="images/image2.png" width="250" height="400" alt="Image 2">
-  <img src="images/image3.png" width="250" height="400" alt="Image 3">
+  <img src="images/image.png" width="300" height="400" alt="Image 1">
+  <img src="images/image2.png" width="300" height="400" alt="Image 2">
+  <img src="images/image3.png" width="300" height="400" alt="Image 3">
 </p>

@@ -11,4 +11,4 @@ SUAI course about Assembler basics
 | [Laboratory work №5](https://github.com/gr1shan1a/Assembler-course/tree/main/lab5) | 100%  | Поразрядная обработка| 3/10 | 2/10 |
 
 Usefull links:
-- [PDF-presentation](https://github.com/gr1shan1a/Assembler-course/blob/main/Assembler_2024_full_course.pdf) of the course
+-[PDF-presentation](https://github.com/gr1shan1a/Assembler-course/blob/main/Assembler_2024_full_course.pdf) of the course
